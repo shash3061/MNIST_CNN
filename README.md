@@ -1,2 +1,3 @@
 # MNIST_CNN
-Using CNN to train MNIST
+
+Using Convolutional Neural Networks to train MNIST.
